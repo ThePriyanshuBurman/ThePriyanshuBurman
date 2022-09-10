@@ -7,10 +7,14 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ThePriyanshuBurman?style=social)
 
-Hey!! I am Priyanshu Burman, Third-year Student at 📍 Asansol Engineering College 🏫 pursuing B.Tech in Information Technology branch🔌. I enjoy reading books 📚 and solving problems 📝 using programming 💻. 
-- 🔭 I’m currently working on **Web Developement**
+Hey!! I am Priyanshu Burman, Third-year Student at 📍 Asansol Engineering College 🏫 pursuing B.Tech in Information Technology branch🔌. I enjoy solving problems 📝 using JAVA 💻. 
+- 🔭 I’m currently working on **Fronted Web Development**
 
-- 🌱I’m currently learning **JAVA,JavaScript,DSA**
+- 🌱I’m currently learning **JAVA,JavaScript,DSA,HTML,CSS,MongoDb**
+
+- 💬 Ask me about **C++,JAVA,HTML,CSS**
+
+- 👀 I'm interested in **Web Development**
 
 - 📫 How to reach me **@burmanp66@gmail.com**
 
