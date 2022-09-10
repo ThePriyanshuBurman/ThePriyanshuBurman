@@ -7,9 +7,10 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ThePriyanshuBurman?style=social)
 
+Hey!! I am Priyanshu Burman, Third-year Student at 📍 Asansol Engineering College 🏫 pursuing B.Tech in Information Technology branch🔌. I enjoy reading books 📚 and solving problems 📝 using programming 💻. 
 - 🔭 I’m currently working on **Web Developement**
 
-- 🌱I’m currently learning **B.Tech in 3rd year, Information Technology**
+- 🌱I’m currently learning **JAVA,JavaScript,DSA**
 
 - 📫 How to reach me **@burmanp66@gmail.com**
 
