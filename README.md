@@ -39,5 +39,3 @@ Hey!! I am Priyanshu Burman, Third-year Student at 📍 Asansol Engineering Coll
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThePriyanshuBurman&theme=radical&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThePriyanshuBurman&theme=radical)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thepriyanshuburman&show_icons=true&theme=radical&locale=en&layout=compact" alt="thepriyanshuburman" /></p>
