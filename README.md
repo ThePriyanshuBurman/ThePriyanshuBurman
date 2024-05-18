@@ -12,7 +12,7 @@ Hey!! I am Priyanshu Burman,  student of 📍 Asansol Engineering College 🏫 p
 
 - 🌱I’m currently learning **React.js**
 
-- 💬 Ask me about **JAVA,OOPs,HTML,CSS,MySQL,MongoDb,TailwindCSS**
+- 💬 Ask me about **JAVA,OOPs,Frontend Develpment,Databases**
 
 - 👀 I'm interested in **Frontend Web Development,Data Science**
 
