@@ -43,15 +43,18 @@ Hey!! I am Priyanshu Burman,  student of 📍 Asansol Engineering College 🏫 p
 <p align="left"> <a href="https://www.getbootstrap.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tailwindcss.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/> </a> <a href="https://www.react.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
   
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thepriyanshuburman&show_icons=true&theme=radical" alt="thepriyanshuburman" /></p>
+<br/>
+  <h2 align="center">⚡ Current Stats ⚡</h2>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thepriyanshuburman&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="thepriyanshuburman" /></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThePriyanshuBurman&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThePriyanshuBurman&theme=react&rank_icon=github&border_radius=10)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThePriyanshuBurman&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThePriyanshuBurman&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThePriyanshuBurman&theme=react&rank_icon=github&border_radius=10)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThePriyanshuBurman&theme=react&rank_icon=github&border_radius=10)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThePriyanshuBurman&theme=radical&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThePriyanshuBurman&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThePriyanshuBurman&theme=react&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThePriyanshuBurman&theme=react&rank_icon=github&border_radius=10)
 
 <p align="center">
 
